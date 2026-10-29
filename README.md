@@ -70,11 +70,11 @@ Além disso, os critérios adotados para a limpeza podem influenciar os resultad
 ## 9. Como executar o projeto
 
 1. Baixe o arquivo `data.csv` na página do Kaggle.
-2. Abra o notebook `analise_alugueis.ipynb` no Google Colab.
-3. Disponibilize o arquivo de dados no caminho esperado pelo código.
-4. Execute as células do notebook em ordem para reproduzir a análise.
-
+2. Faça o uploud do arquivo `analise_alugueis.ipynb` no Google Colab.
+3. Disponibilize o arquivo `data.csv` na 
+4. No menu lateral esquerdo, procure o ícone de pasta 📁.
+Clique nele para abrir o painel de arquivos.
+Procure o botão de enviar arquivo (ícone de upload) e envie seu `data.csv`
+5. Execute as células do notebook em ordem para reproduzir a análise.
 ## 10. Declaração de uso de inteligência artificial
-
 Foi utilizada inteligência artificial, por meio do ChatGPT, como apoio ao aprendizado de Python, à elaboração e revisão de comandos e em duvidas como funciona a postagem no github. Os resultados foram conferidos no Google Colab.
-
